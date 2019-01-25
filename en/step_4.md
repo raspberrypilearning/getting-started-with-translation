@@ -5,7 +5,7 @@ As a volunteer, you will be using three tools:
 
 ### Jira
 
-This is the main space where you will choose the tasks you want to work on and where you’ll keep everyone updated on your progress. You will also be able to access various support materials and resources there.
+This is the main space where you will choose the tasks you want to work on and where you’ll keep everyone updated on your progress. You will also be able to access various support materials and resources there. When you log in to Jira, you will be taken through a tutorial which will explain how to use it.
 
 ### Crowdin
 
