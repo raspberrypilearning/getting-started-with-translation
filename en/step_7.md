@@ -1,5 +1,5 @@
 
-## What's next
+## Next steps
 
 Now that you know what you’ll be translating, what the workflow is, and what tools you’ll be using, you can start your first task. To do that:
 
