@@ -4,7 +4,7 @@ We want our learning resources to be translated to the best quality possible. Th
 
 ### Step 1: Machine translation / Translation memory
 
-Each task is pre-translated using a machine translation engine such as Google Translate, and we also use our previous translations to fill in any repetitive text (this is called Translation memory). This is done to speed up the translation process and leave less work for the volunteers.
+Each task is pre-translated using a machine translation engine such as Google Translate, and we also use our previous translations to fill in any repetitive text (this is called Translation memory). This is done to speed up the translation process and leave you with less work.
 
 ### Step 2: Post-editing
 
