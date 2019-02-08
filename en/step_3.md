@@ -1,6 +1,8 @@
 ## Workflow
 
-We want our learning resources to be translated to the best quality possible. That’s why we take each resource through four stages:
+We want our learning resources to be translated to the best quality possible. That’s why we take each resource through four stages.
+
+![Translation workflow](images/translation-workflow.png)
 
 ### Step 1: Machine translation / Translation memory
 
