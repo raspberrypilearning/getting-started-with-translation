@@ -20,6 +20,10 @@ Join our Slack community space (you will receive an invitation)
 --- /task ---
 
 --- task ---
+Have a go at some of our [projects](https://projects.raspberrypi.org)
+--- /task ---
+
+--- task ---
 To help us grow and reach more children and young people around the world, please let your friends and family know about what we do and encourage them to join us. If you use social media, please use the #RPiTranslate hashtag.
 --- /task ---
 
