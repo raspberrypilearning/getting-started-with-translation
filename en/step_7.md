@@ -12,15 +12,15 @@ Set up a [Crowdin](https://crowdin.com/join) account.
 --- /task ---
 
 --- task ---
-Join our Jira community space (you will receive an invitation)
+Join our Jira community space (you will receive an invitation).
 --- /task ---
 
 --- task ---
-Join our Slack community space (you will receive an invitation)
+Join our Slack community space (you will receive an invitation).
 --- /task ---
 
 --- task ---
-Have a go at some of our [projects](https://projects.raspberrypi.org)
+Have a go at some of our [projects](https://projects.raspberrypi.org) to understand them better.
 --- /task ---
 
 --- task ---
