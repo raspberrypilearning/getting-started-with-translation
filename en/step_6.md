@@ -1,12 +1,30 @@
 
-## Recognition scheme
+## Next steps
 
-We do our best to recognise the hard work of our amazing volunteers. That’s why we have introduced a recognition scheme that helps us ensure everyone gets the credit they deserve.
+Now that you know what you’ll be translating, what the workflow is, and what tools you’ll be using, you can start your first task. To do that:
 
-![Photo of a gift received by one of the volunteers](images/recognition-scheme2.png)
+--- task ---
+Let us know you're ready to begin by sending an email to translation@raspberrypi.org. You will receive further instructions.
+--- /task ---
 
-If you complete at least 10 tasks, you will receive a letter from us with stickers, a pen and a pin badge. The more tasks you complete, the better the rewards – you can get a t-shirt, a magazine subscription or even a Raspberry Pi if you are exceptionally committed to our efforts. 
+--- task ---
+Set up a [Crowdin](https://crowdin.com/join) account.
+--- /task ---
 
-![Photo of preparations to send out gifts to volunteers](images/recognition-scheme1.png)
+--- task ---
+Join our Jira community space (you will receive an invitation).
+--- /task ---
 
-The recognition scheme changes with time because we continually improve it. If you'd like to know more, please ask on Slack or send us an email.
+--- task ---
+Join our Slack community space (you will receive an invitation).
+--- /task ---
+
+--- task ---
+Have a go at some of our [projects](https://projects.raspberrypi.org) to understand them better.
+--- /task ---
+
+--- task ---
+To help us grow and reach more children and young people around the world, please let your friends and family know about what we do and encourage them to join us. If you use social media, please use the #RPiTranslate hashtag.
+--- /task ---
+
+Happy translating!
