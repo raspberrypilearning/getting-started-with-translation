@@ -1,14 +1,15 @@
+---
 title: Getting started with translation
 hero_image: images/banner.png
 description: getting-started-with-translation description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-01-23"
+last_tested: '2019-01-23'
 steps:
-  - title: Introduction
-  - title: What we translate
-  - title: Workflow
-  - title: Tools
-  - title: Support
-  - title: Next steps
+- title: Introduction
+- title: What we translate
+- title: Workflow
+- title: Tools
+- title: Support
+- title: Next steps
